@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Morpion",
+  "short_name": "Morpion",
+  "version": "fr.uga.iut2.lpmiaw.demoshifumi",
+  "description": "Un jeu de morpion en Cordova et JQuery Mobile",
+  "author": "FONTAINE Pierre",
+  "icons": [],
+  "start_url": "index.html"
+}
